@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shubhamsmac/7July_RecyclerView_1_Idendity_Card_CSS_You3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/shubhamsmac/AndroidStudioProjects/RecyclerView_1_Idendity_Card_CSS_You3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/b3cfbfb1b9d3c28903be03b381ffe5a1/savedstate-1.1.0/res/values/values.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/shubhamsmac/7July_RecyclerView_1_Idendity_Card_CSS_You3/app/src/main/res/values/strings.xml",
+                    "source": "/Users/shubhamsmac/AndroidStudioProjects/RecyclerView_1_Idendity_Card_CSS_You3/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2,1,4,3",
                         "startColumns": "4,4,4,4",
@@ -131,7 +131,7 @@
                     }
                 },
                 {
-                    "source": "/Users/shubhamsmac/7July_RecyclerView_1_Idendity_Card_CSS_You3/app/src/main/res/values/colors.xml",
+                    "source": "/Users/shubhamsmac/AndroidStudioProjects/RecyclerView_1_Idendity_Card_CSS_You3/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "7,2,3,4,5,6,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -167,7 +167,7 @@
                     }
                 },
                 {
-                    "source": "/Users/shubhamsmac/7July_RecyclerView_1_Idendity_Card_CSS_You3/app/src/main/res/values/themes.xml",
+                    "source": "/Users/shubhamsmac/AndroidStudioProjects/RecyclerView_1_Idendity_Card_CSS_You3/app/src/main/res/values/themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
