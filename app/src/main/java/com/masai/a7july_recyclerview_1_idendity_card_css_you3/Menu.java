@@ -1,5 +1,6 @@
 package com.masai.a7july_recyclerview_1_idendity_card_css_you3;
 public class Menu {
+
     private int image;
     private String age;
     private String profession;

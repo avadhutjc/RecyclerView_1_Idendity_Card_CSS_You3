@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shubhamsmac/AndroidStudioProjects/RecyclerView_1_Idendity_Card_CSS_You3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/shubhamsmac/RecyclerView_1_Idendity_Card_CSS_You3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/b3cfbfb1b9d3c28903be03b381ffe5a1/savedstate-1.1.0/res/values/values.xml",
@@ -18,23 +18,6 @@
                         "startOffsets": "61192",
                         "endColumns": "53",
                         "endOffsets": "61241"
-                    }
-                },
-                {
-                    "source": "/Users/shubhamsmac/AndroidStudioProjects/RecyclerView_1_Idendity_Card_CSS_You3/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "2,1,4,3",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "97,16,211,141",
-                        "endColumns": "43,80,47,69",
-                        "endOffsets": "136,92,254,206"
-                    },
-                    "to": {
-                        "startLines": "1113,1114,1150,1191",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "65334,65378,70048,77377",
-                        "endColumns": "43,80,47,69",
-                        "endOffsets": "65373,65454,70091,77442"
                     }
                 },
                 {
@@ -131,7 +114,7 @@
                     }
                 },
                 {
-                    "source": "/Users/shubhamsmac/AndroidStudioProjects/RecyclerView_1_Idendity_Card_CSS_You3/app/src/main/res/values/colors.xml",
+                    "source": "/Users/shubhamsmac/RecyclerView_1_Idendity_Card_CSS_You3/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "7,2,3,4,5,6,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -145,6 +128,23 @@
                         "startOffsets": "20401,26394,26441,26488,27232,27277,27443",
                         "endColumns": "41,46,46,46,44,44,41",
                         "endOffsets": "20438,26436,26483,26530,27272,27317,27480"
+                    }
+                },
+                {
+                    "source": "/Users/shubhamsmac/RecyclerView_1_Idendity_Card_CSS_You3/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,1,4,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "97,16,211,141",
+                        "endColumns": "43,80,47,69",
+                        "endOffsets": "136,92,254,206"
+                    },
+                    "to": {
+                        "startLines": "1113,1114,1150,1191",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "65334,65378,70048,77377",
+                        "endColumns": "43,80,47,69",
+                        "endOffsets": "65373,65454,70091,77442"
                     }
                 },
                 {
@@ -164,25 +164,6 @@
                         "endLines": "989,1018,1053,6700,6704",
                         "endColumns": "56,64,63,24,24",
                         "endOffsets": "58078,59546,61355,437092,437241"
-                    }
-                },
-                {
-                    "source": "/Users/shubhamsmac/AndroidStudioProjects/RecyclerView_1_Idendity_Card_CSS_You3/app/src/main/res/values/themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "852"
-                    },
-                    "to": {
-                        "startLines": "3797",
-                        "startColumns": "4",
-                        "startOffsets": "250608",
-                        "endLines": "3809",
-                        "endColumns": "12",
-                        "endOffsets": "251358"
                     }
                 },
                 {
@@ -217,6 +198,25 @@
                         "startOffsets": "58083,58123,59070,59252,59307,60803,60857,60909,60958,61019",
                         "endColumns": "39,46,42,54,46,53,51,48,60,49",
                         "endOffsets": "58118,58165,59108,59302,59349,60852,60904,60953,61014,61064"
+                    }
+                },
+                {
+                    "source": "/Users/shubhamsmac/RecyclerView_1_Idendity_Card_CSS_You3/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "852"
+                    },
+                    "to": {
+                        "startLines": "3797",
+                        "startColumns": "4",
+                        "startOffsets": "250608",
+                        "endLines": "3809",
+                        "endColumns": "12",
+                        "endOffsets": "251358"
                     }
                 },
                 {
